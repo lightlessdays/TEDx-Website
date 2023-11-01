@@ -1,3 +1,3 @@
 # TEDxRamanujan College: Unravelling the Tide Within
 
-<img src="banner.png" width=100%>
+<img src="TEDx Banner.png" width=100%>
